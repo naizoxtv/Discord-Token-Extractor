@@ -3,6 +3,8 @@
 ## Description
 This script allows you to retrieve your own Discord token directly from the browser console. This can be useful for debugging, bot development, or educational purposes. Always ensure you are extracting your own token and not violating Discord's Terms of Service.
 
+**Watch [this video](https://www.youtube.com/watch?v=aPoRQ0hxvc4) for a step-by-step visual guide on how to extract your Discord token.**  
+
 ## Step-by-Step Guide
 
 ### 1. Open the Discord Web App
